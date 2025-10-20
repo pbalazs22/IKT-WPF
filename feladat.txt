@@ -1,5 +1,0 @@
-Valamilyen űrlap téma. Adatot dolgoz fel, fájl kezeléssel. Legalább 8 adat legyen. Módosítható, felvihető, törlés, szűrés, fájlba generálás - Deadline - November vége
-
-Téma: vendégház naplója
-
-foglaló ember neve, szoba száma, milyen szoba, mennyi fő(gyerek,felnőtt),mettől meddig, milyen ellátást kér,kell e parkolóhely, kisállat
